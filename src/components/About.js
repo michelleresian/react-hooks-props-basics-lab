@@ -6,7 +6,7 @@ function About() {
       <h2>About Me</h2>
       <p>I made this</p>
       <img src="https://i.imgur.com/mV8PQxj.gif" alt="I made this" />
-      https://github.com/michelleresian/react-hooks-props-basics-lab
+      https://github.com/liza
     </div>
   );
 }
